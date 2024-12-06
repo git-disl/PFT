@@ -13,7 +13,7 @@ Code and dataset for the submission "Matching Accounts on Blockchain with Pseudo
 
 #### Step 1. Download dataset from Google drive:
 * [All_in_one](https://drive.google.com/file/d/1LPloeakxyp00Ez56EnjpuSQ6LCTLWUMz/view?usp=share_link)
-* [Typhoon dataset (new)][https://drive.google.com/file/d/1WzCXxPGO1dDyfMZ7CqAKvgfiSVM2lyoZ/view?usp=sharing]
+* [Typhoon dataset (new)](https://drive.google.com/file/d/1WzCXxPGO1dDyfMZ7CqAKvgfiSVM2lyoZ/view?usp=sharing)
 
 #### Step 2. Unzip dataset under the directory of "PFT/Data"
 ``` 
